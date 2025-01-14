@@ -3,7 +3,7 @@ import networkx as nx
 from manim import config
 
 # Set the path to the FFmpeg executable directly in the script
-config.ffmpeg_executable = r"C:\Users\kkapo\Downloads\ffmpeg-2024-10-27-git-bb57b78013-full_build\ffmpeg-2024-10-27-git-bb57b78013-full_build\bin\ffmpeg.exe"
+# config.ffmpeg_executable = [ENTER PATH HERE]
 
 class TarjansAlgorithmVisualization(Scene):
     def construct(self):
